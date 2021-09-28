@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xn--mgbad0cya.com/sitemap.xml
